@@ -4,7 +4,7 @@ class Solution{
     {
          if(n <= 2) {
              return -1;
-         }
+         }gfg/array/swap_kth_index.cpp
          
          int max = 0;
          for(int i = 0; i < n; i++) {
